@@ -1,0 +1,29 @@
+.item {
+  width: 33%;
+  height: 80px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(0,0,0,0.25);
+  box-shadow: 5px 14px 28px rgba(0,0,0,0.25), 5px 10px 10px rgba(0,0,0,0.22);
+}
+.list {
+  width: 100%;
+  margin: 0;
+  margin-top: 20px;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.quantity {
+  font-size: 16px;
+  font-weight: 800;
+  padding: 5px;
+}
+.label {
+  font-size: 16px;
+  font-weight: 800;
+  padding: 5px;
+}

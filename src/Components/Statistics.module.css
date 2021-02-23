@@ -1,0 +1,7 @@
+.statistics {
+  margin: 25px auto;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  outline: 1px solid rgb(226, 225, 225);
+}
